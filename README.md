@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 
-<h3 align="center">An iOS developer from India</h3>
+<h3 align="center">An iOS developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkahalkar" alt="akashkahalkar" /> </p>
 
