@@ -2,8 +2,6 @@
 
 <h3 align="center">An iOS developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkahalkar" alt="akashkahalkar" /> </p>
-
 - 🔭 I’m currently working on [People In Spaace](https://github.com/akashkahalkar/PeopleInSpace)
 
 - 🌱 I’m currently learning **Python, Flutter**
@@ -26,9 +24,11 @@
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  
+</p>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=akashkahalkar" alt="akashkahalkar" />
 </p>
 
 <p>
