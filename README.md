@@ -12,7 +12,7 @@
 
 - 📝 I just started writing articles on [https://medium.com/@aakash0x90](https://medium.com/@aakash0x90)
 
-- 💬 Ask me about **Batch scripting**
+- 💬 Ask me about **Windows Batch scripting**
 
 - 📜 Checkout my gist at [Gists](https://gist.github.com/akashkahalkar)
 
@@ -21,13 +21,14 @@
 **Had my hands dirty with following**
 
 <p align="left">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="40" height="80"/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="40" height="40"/>
+  
 </p>
 
 <p>
@@ -42,11 +43,12 @@
   <b>Connect with me</b>
   <br>
 <a href="https://linkedin.com/in/akash-kahalkar" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akash-kahalkar" height="30" width="30" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akash-kahalkar" height="40" width="60" />
 </a>
 <a href="https://instagram.com/aakash_kahalkar" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aakash_kahalkar" height="30" width="30" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aakash_kahalkar" height="40" width="60" />
 </a>
-<a href="https://medium.com/@aakash0x90" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aakash0x90" height="30" width="30" />
+<a href="https://medium.com/@aakash0x90" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aakash0x90" height="40" width="60" />
 </a>
 </p>
