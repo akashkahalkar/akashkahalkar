@@ -16,9 +16,7 @@
 
 ## Stats
 ### Profile Stats
-![Akash's Stats](https://github-readme-stats.vercel.app/api?username=akashkahalkar&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
 ![Akash's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashkahalkar&theme=vue-dark&hide_border=true)
-![Akash's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashkahalkar&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 #### Recent Activity
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
